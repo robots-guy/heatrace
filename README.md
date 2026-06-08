@@ -11,3 +11,7 @@ lumped-capacitance thermal model.*
 *Parametric generation of serpentine and spiral heater patterns from a target yarn
 length, with Wallacei-based optimization to fit the layout within the footprint.*
 <img width="1597" height="1147" alt="image" src="https://github.com/user-attachments/assets/1886ae11-0034-4b6e-98a9-8f0ba99364b5" />
+
+## Repository Structure
+- `model/` — Python lumped-capacitance thermal model and residual analysis
+- `Rhino-GH/` — Parametric heater generator (.gh) + required plugins

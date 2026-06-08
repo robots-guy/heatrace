@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "HeaTrace: Parametric Design-to-Fabrication Workflow for Embedded Resistive Heaters in Soft Robots"
+message: "If you use this software, please cite the associated article."
+type: software
+authors:
+  - family-names: "Thanigaivel"
+    given-names: "Naresh Kumar"
+    orcid: "https://orcid.org/0000-0002-6689-1331"
+
+repository-code: "https://github.com/robots-guy/heatrace"
+license: MIT
+date-released: "2026-06-08"
+
+preferred-citation:
+  type: article
+  title: "[Full paper title]"
+  authors:
+    - family-names: "Thanigaivel"
+      given-names: "Naresh Kumar"
+  journal: "Manuscript under review"
+  year: 2026
+  notes: "Manuscript under review"
